@@ -1,4 +1,5 @@
 let x = "abc";
+
 const name = "Siddhiraj"
 console.log(x)
 function abc(){
@@ -6,9 +7,11 @@ function abc(){
     var x= "pqr"
     console.log("Inside ABC ")
     //console.log(y);
-    var y = "asdasd";
+    let y = "asdasd";
     console.log(y);
     function xyz (){
+        let y ="murkha"
+        console.log(y);
         console.log("Inside XYZ ")
         console.log(x);
     }

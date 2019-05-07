@@ -5,5 +5,5 @@
 4. Modules pattern. 
 5. True globals ( Console, process, global );
 6. Event Loop Working (Provide Link here )
-7. Psuedo Globals ( hands on );
+7. Psuedo Globals ( hands on ) (__dirname, __filename );
 8. Assignment 

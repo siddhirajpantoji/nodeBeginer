@@ -17,4 +17,7 @@ function primeNumber(num){
         return false;
     }
 }
-module.exports.isPrime = primeNumber;
+exports.isPrime = primeNumber;
+exports.sayHello = (name)=>{
+    return "Hello "+ name;
+}
